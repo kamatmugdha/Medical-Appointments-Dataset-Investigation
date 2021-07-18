@@ -1,2 +1,3 @@
 # Medical Appointments Dataset Investigation
  
+In this project, I investigated this dataset of 100K+ medical appointments in Brazil to understand the patient characteristics and finding trends among patients showing up/not for their scheduled appointment.  I performed the entire data wrangling process with simple visualizations to get used to Python’s different tools and libraries such as Anaconda, Jupyter Notebook, Pandas, and NumPy.
